@@ -1,6 +1,6 @@
 ### Here is MonKey Lee :wave:
 
-- :books: I'm a bachlor student who just graduated from Xi'an Jiaotong University, China.
+- :books: I'm a master student from Peking University, China.
 - :satisfied: I'm curious about System Security, Computer Arch and HPC.
 - :point_right: Check my CV [here](https://cv.mky.moe/).
 
